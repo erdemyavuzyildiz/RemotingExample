@@ -2,11 +2,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RServer", "RServer.csproj", "{71289603-B5B2-4018-8865-E7795192BF87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RServer", "RServer\RServer.csproj", "{71289603-B5B2-4018-8865-E7795192BF87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotableObjects", "..\RemotableObjects\RemotableObjects.csproj", "{8344AD05-4EEC-4710-8EE0-BE8187ED4091}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotableObjects", "RemotableObjects\RemotableObjects.csproj", "{8344AD05-4EEC-4710-8EE0-BE8187ED4091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RClient", "..\RClient\RClient.csproj", "{1AF081E0-AA33-4300-8AFC-434B6F9C942E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RClient", "RClient\RClient.csproj", "{1AF081E0-AA33-4300-8AFC-434B6F9C942E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
